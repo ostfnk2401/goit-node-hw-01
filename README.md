@@ -1,4 +1,7 @@
-https://ibb.co/kQTDp73
-https://ibb.co/4PD3qJG
-https://ibb.co/ckktMNh
-https://ibb.co/6stXqMq
+https://ibb.co/kQTDp73 - list
+
+https://ibb.co/4PD3qJG - get
+
+https://ibb.co/ckktMNh - add
+
+https://ibb.co/6stXqMq - remove
